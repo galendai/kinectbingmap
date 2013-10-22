@@ -29,7 +29,7 @@
 
         <!-- Main grid for bing map -->
         <Grid Grid.Row="0" Grid.RowSpan="3" Grid.ColumnSpan="2" x:Name="MapGrid" Margin="0 0 0 0">
-            <m:Map x:Name="MainMap" CredentialsProvider="AkD8LxvWxAO3Qg-ULDBCYmx9wTbb4jGU71Xgyc28SQuMRT-NMQ-qyWKkEMtDesFe" Center="{Binding MapCenterPoint, Mode=TwoWay}" ZoomLevel="{Binding MapZoomLevel,Mode=TwoWay}" Mode="AerialWithLabels"/>
+            <m:Map x:Name="MainMap" CredentialsProvider="Aqjefn9UzL8_nxzb32-iD6g5g9PeuJC0WMj4BueF_YTew1aiCKwSfNbw2mRTB_kn" Center="{Binding MapCenterPoint, Mode=TwoWay}" ZoomLevel="{Binding MapZoomLevel,Mode=TwoWay}" Mode="AerialWithLabels"/>
         </Grid>
 
         <!-- Title View -->
